@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Flotss
+- 👀 I’m interested in development
+- 🌱 I’m currently learning computer science
