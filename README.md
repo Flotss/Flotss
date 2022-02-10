@@ -18,3 +18,9 @@
 <p align="left">
 <a href="https://twitter.com/flotss331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flotss331" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flotss&show_icons=true&locale=en&layout=compact" alt="flotss" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flotss&show_icons=true&locale=en" alt="flotss" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flotss&" alt="flotss" /></p>
