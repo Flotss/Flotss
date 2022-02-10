@@ -14,13 +14,14 @@
 
 - ⚡ Fun fact **I am the little boy in the band**
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flotss&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&hide_border=true&locale=fr&layout=compact" alt="flotss" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flotss&theme=dark" alt="flotss" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/flotss331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flotss331" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flotss&show_icons=true&locale=en&layout=compact" alt="flotss" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flotss&show_icons=true&locale=en" alt="flotss" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flotss&" alt="flotss" /></p>
+<a href="https://discord.gg/Flotss#5748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Flotss#5748" height="30" width="40" /></a>
+</p>
