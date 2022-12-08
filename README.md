@@ -68,15 +68,9 @@
 
 
 ## Github Stats  
-<div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flotss&show_icons=true)
-</div>
-
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Flotss&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+[![Flotss's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Flotss&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Flotss/github-readme-stats#gh-dark-mode-only)
+[![Flotss's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Flotss&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Flotss/github-readme-stats#gh-light-mode-only)
+
