@@ -70,7 +70,6 @@
 ## Github Stats  
 <br/>  
 
-
-[![Flotss's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Flotss&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Flotss/github-readme-stats#gh-dark-mode-only)
-[![Flotss's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Flotss&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Flotss/github-readme-stats#gh-light-mode-only)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flotss&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Flotss's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flotss&layout=compact&theme=dark&hide_border=true" /> |
+| ------------- | ------------- |
 
