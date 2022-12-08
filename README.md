@@ -69,13 +69,8 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=flotss&show_icons=true&count_private=true&locale=fr&theme=react&hide_border=true&bg_color=0D1111" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=flotss&show_icons=true&count_private=true&locale=fr&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="flotss" align="center" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flotss&show_icons=true)
 </div>
-
-
-<br/>  
-
 
 <br/>  
 
