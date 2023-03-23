@@ -3,9 +3,9 @@
 <br>  
 
 <br>
-- 🔭 Je suis actuellement en train d'étudier en BUT Informatique<br>  <br>
-- 🌱 J'apprends actuellement Java, Batch<br>  <br>
-- ⚡ Fun fact: J'utilise Word pour coder<br>  
+- 🔭 Je suis actuellement en train d'étudier en BUT Informatique<br> <br>
+- 🌱 J'apprends actuellement JS (jQuery) et nextJS <br><br>
+- ⚡ Fun fact: Trouvez moi quelqu'un qui me dépasse<br>  
 
 
 # 💻 Tech Stack:
