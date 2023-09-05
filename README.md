@@ -1,10 +1,9 @@
 # 💫 About Me:
-### <div align="center">Flotss, Étudiant en deuxième année de BUT Informatique 👨‍💻 Depuis 2021🚀</div>  
-### <div align="center">Prochainement à ISEP en cycle ingénieur</div>  
+### <div align="center">Flotss, Étudiant A1 cycle ingénieur ISEP👨‍💻 Depuis 2021🚀</div>  
+### <div align="center">Apprenti ingénieur chez Société Générale</div>  
 <br>  
 
 <br>
-- 🔭 Je suis actuellement en train d'étudier en BUT Informatique<br> <br>
 - 🌱 J'apprends actuellement JS et NextJS(React) <br><br>
 - ⚡ Fun fact: Trouvez moi quelqu'un qui me dépasse<br>  
 
