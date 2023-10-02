@@ -1,0 +1,58 @@
+{
+  "Name": "Florian",
+  "LastName": "Mangin",
+  "Age": "20",
+  "Location": "Paris, France",
+  "Job": "Junior Software Engineer",
+  "Tech": [
+    "Java",
+    "C#",
+    "Typescript",
+    "Javascript",
+    "PHP",
+    "Python"
+  ],
+  "Hobbies": [
+    {
+      "Cinema": "I love cinema! I fall into a new world every time.",
+      "Technology": "I can't understand how people can't get interested. These are the objects that are revolutionizing the world.",
+      "Music": {
+        "Sentence": "I can't go a day without music.",
+        "Genre": [
+          {
+            "Metal": [
+              "Metallica",
+              "Rammstein",
+              "Slipknot"
+            ],
+            "Metalcore": [
+              "Spiritbox",
+              "Motionless in White",
+              "In This Moment"
+            ],
+            "Rock": [
+              "Muse",
+              "Nirvana",
+              "Pink Floyd"
+            ],
+            "Indie": [
+              "Gorillaz",
+              "Tame Impala",
+              "Arctic Monkeys"
+            ],
+            "Pop": [
+              "Micheal Jackson",
+              "The Weeknd",
+              "Dua Lipa"
+            ],
+            "Electro": [
+              "Daft Punk",
+              "Justice",
+              "Martin Garrix"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
