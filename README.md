@@ -4,8 +4,12 @@
 <br>  
 
 <br>
-- 🌱 J'apprends actuellement JS et NextJS(React) <br><br>
+- 🏢 J'apprends actuellement AngularJS et C# <br>
+- 🏫 J'apprends aussi Java <br> 
 - ⚡ Fun fact: Trouvez moi quelqu'un qui me dépasse<br>  
+
+#### Pour voir plus de détails : 
+##### [Cliquer ici](https://github.com/Flotss/Flotss/blob/da7bb9eb4bd126aa8a009fe6523ca494cdc7d270/me.json)
 
 
 # 💻 Tech Stack:
