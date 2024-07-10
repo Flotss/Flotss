@@ -1,5 +1,5 @@
 # 💫 About Me:
-### <div align="center">Flotss, Étudiant A1 cycle ingénieur ISEP👨‍💻 Depuis 2021🚀</div>  
+### <div align="center">Flotss, Étudiant A2 cycle ingénieur ISEP👨‍💻 Depuis 2021🚀</div>  
 ### <div align="center">Apprenti ingénieur chez Société Générale</div>  
 <br>  
 
