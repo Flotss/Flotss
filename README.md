@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Trouvez moi quelqu'un qui me dépasse<br>  
 
 #### Pour voir plus de détails : 
-##### [Cliquer ici](https://github.com/Flotss/Flotss/blob/da7bb9eb4bd126aa8a009fe6523ca494cdc7d270/me.json)
+##### [Cliquer ici](https://github.com/Flotss/Flotss/blob/main/me.json)
 
 
 # 💻 Tech Stack:
